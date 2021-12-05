@@ -1,0 +1,5 @@
+Credentials cache: API:410C3B1F-EF80-479E-9F65-B448DEBFA5E1
+        Principal: yichoi@42SEOUL.KR
+
+  Issued                Expires               Principal
+Sep  6 15:56:15 2021  Sep  7 01:56:05 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
